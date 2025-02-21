@@ -8,9 +8,13 @@ Finally, we will tackle practical problems such as image classification, tabular
 
 Link:
 https://www.aiutocomputerhelp.it/machine-learning-con-python-linizio-di-un-lungo-percorso/
+
 https://www.aiutocomputerhelp.it/machine-learning-capitolo-1-la-regressione-lineare-software/
+
 https://www.aiutocomputerhelp.it/machine-learning-capitolo-2-reti-neurali-dense-software/
+
 https://www.aiutocomputerhelp.it/machine-learning-capitolo-3-reti-neurali-convoluzionali-software/
+
 https://www.aiutocomputerhelp.it/machine-learning-capitolo-4-trasformer-software/
 
 
